@@ -1,0 +1,13 @@
+.navbar-list {
+    list-style: none;
+    display: flex;
+    padding: 0;
+  }
+  
+  .navbar-list li {
+    margin-right: 10px;
+  }
+  
+  .navbar-list li:last-child {
+    margin-right: 0;
+  }
